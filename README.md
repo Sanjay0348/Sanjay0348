@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjay0348
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning basic banking system
+- 🌱 I’m currently working on Back-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
